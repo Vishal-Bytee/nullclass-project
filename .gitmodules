@@ -1,0 +1,18 @@
+[submodule "student-attendance-"]
+	path = student-attendance-
+	url = https://github.com/Vishal-Bytee/student-attendance-
+[submodule "Animal-detection"]
+	path = Animal-detection
+	url = https://github.com/Vishal-Bytee/Animal-detection
+[submodule "Drowsiness-detection-"]
+	path = Drowsiness-detection-
+	url = https://github.com/Vishal-Bytee/Drowsiness-detection-
+[submodule "Nationality_Detector"]
+	path = Nationality_Detector
+	url = https://github.com/Vishal-Bytee/Nationality_Detector
+[submodule "sign-language-detector"]
+	path = sign-language-detector
+	url = https://github.com/Vishal-Bytee/sign-language-detector
+[submodule "car-colour-and-number-of-car-in-traffic-detection-system-"]
+	path = car-colour-and-number-of-car-in-traffic-detection-system-
+	url = https://github.com/Vishal-Bytee/car-colour-and-number-of-car-in-traffic-detection-system-
